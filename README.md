@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**abdelwahidjr/abdelwahidjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a software engineer with a passaion to improve daily and make things better around me.
 
-Here are some ideas to get you started:
+### BIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I use : `PHP` , `JAVA` ,`JS`
+- I practice `Data Structures` and `Algorithms`
+- I care about `Web Development` , `DevOps` , `Data Base`
+
+<br>
+
+<div>
+    <p> ⭐ CONTACT ⭐ </p>
+
+<br>
+
+<a href="mailto:abdelwahidjr@gmail.com?subject=Hello Abd EL-Wahid!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/abdelwahidjr/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
