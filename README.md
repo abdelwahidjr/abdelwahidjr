@@ -15,6 +15,6 @@
 
 <br>
 
-<a href="mailto:abdelwahidjr@gmail.com?subject=Hello Abd EL-Wahid!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:abdelwahidjr@gmail.com?subject=HELLO ABDELWAHID JR!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abdelwahidjr/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
